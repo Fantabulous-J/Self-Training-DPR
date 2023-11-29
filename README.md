@@ -1,5 +1,5 @@
 # Noisy Self-Training with Synthetic Queries for Dense Retrieval
-Source code for our EMNLP 2023 Findings Paper "Noisy Self-Training with Synthetic Queries for Dense Retrieval".
+Source code for our EMNLP 2023 Findings Paper [Noisy Self-Training with Synthetic Queries for Dense Retrieval](https://arxiv.org/pdf/2311.15563.pdf).
 
 ## Install environment
 ```shell
